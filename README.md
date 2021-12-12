@@ -1,4 +1,5 @@
-### Hi there 👋
+# I am a Programmer, without a life 👋
+![Coder](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e475frukdkb36l8tresaygj93p81xida9qqo2af3cj4&rid=giphy.gif&ct=g)
 
 <!--
 **naolchala/naolchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
